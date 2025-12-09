@@ -1,3 +1,15 @@
+
+<div>
+  <iframe
+    src="https://www.youtube.com/embed/u4UcGhaS42A"
+    width="560"
+    height="315"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    ></iframe>
+</div>
+
 # [Kuzunga](https://ukb-dt.github.io/patronage-model/), Muzungu, Wazungu — and the Combinatorial Wanderer
 
 In 2020, when a Hopkins friend (an MD/MPH from Taiwan) asked me for career advice, I warned her that I was the wrong archetype. I joked that I was a tumbling tumbleweed — *The Dude* from *The Big Lebowski* drifting across the desert in that opening sequence, just with less charisma and a weaker soundtrack. But the metaphor wasn’t really a joke. It was pointing to something linguistic and structural: **the intelligence of wandering**, the ancient Bantu concept embedded in *kuzunga*, *muzungu*, and *wazungu*.

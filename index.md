@@ -49,13 +49,13 @@ This is the same geometry behind the *zung-* root:
 
 **motion without a predetermined path → exposure to an enormous search space.**
 
-The Swahili weren’t wrong to see wanderers as unstable or unmoored.
+The Swahili weren’t wrong to see wanderers as unstable or unmoored.          
 But they also weren’t wrong to see them as operating outside the usual cognitive grid — a kind of intelligence that is messy, high-variance, and sometimes disorienting even to itself.
 
 ## Why I Called Myself a Tumbleweed
 
 When I told my friend I wasn’t the right mentor, I didn’t mean I lacked insight.
-I meant my insight comes from **kuzunga**, not from institutional linearity.
+I meant my insight comes from **[kuzunga](https://ukb-dt.github.io/g.1-28/)**, not from institutional linearity.
 
 I don’t follow the staircase.
 I roll.

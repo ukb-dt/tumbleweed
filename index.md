@@ -31,7 +31,7 @@ From this root:
 
 Early East Africans saw Europeans not as embodiments of superiority but as **strange, drifting figures** whose movements lacked context — people who had left their own worlds behind. Wanderers.
 
-## Wandering as a Cognitive Mode
+## [Wandering](https://ukb-dt.github.io/sgd/) as a Cognitive Mode
 
 What struck me years later is how closely this maps to the concept I’ve lived without naming:
 **wandering is a form of combinatorial intelligence.**
@@ -39,7 +39,7 @@ What struck me years later is how closely this maps to the concept I’ve lived 
 To wander is to:
 
 * step outside propriety
-* exit linear institutional timelines
+* [exit](https://ukb-dt.github.io/sgd-00/) linear institutional timelines
 * risk uncertainty
 * [collide](https://ukb-dt.github.io/kon/) with new information
 * expand the search space

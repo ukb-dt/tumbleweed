@@ -41,7 +41,7 @@ To wander is to:
 * step outside propriety
 * exit linear institutional timelines
 * risk uncertainty
-* collide with new information
+* [collide](https://ukb-dt.github.io/kon/) with new information
 * expand the search space
 * drift into unplanned synthesis
 

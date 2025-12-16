@@ -10,7 +10,7 @@
     ></iframe>
 </div>
 
-# [Kuzunga](https://ukb-dt.github.io/patronage-model/), [Muzungu](https://ukb-dt.github.io/ukb-bge-00/), Wazungu — and the Combinatorial Wanderer
+# [Kuzunga](https://ukb-dt.github.io/patronage-model/), [Muzungu](https://ukb-dt.github.io/ukb-bge-00/), Wazungu — and the Combinatorial [Wanderer](https://ukb-dt.github.io/tumbleweed/)
 
 In 2020, when a Hopkins friend (an MD/MPH from Taiwan) asked me for career advice, I warned her that I was the wrong archetype. I joked that I was a tumbling tumbleweed — *The Dude* from *The Big Lebowski* drifting across the desert in that opening sequence, just with less charisma and a weaker soundtrack. But the metaphor wasn’t really a joke. It was pointing to something linguistic and structural: **the intelligence of wandering**, the ancient Bantu concept embedded in *kuzunga*, *muzungu*, and *wazungu*.
 
